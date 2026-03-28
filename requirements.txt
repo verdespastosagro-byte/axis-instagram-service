@@ -1,0 +1,8 @@
+instagrapi
+fastapi
+uvicorn
+python-dotenv
+cryptography
+redis
+pillow
+requests
